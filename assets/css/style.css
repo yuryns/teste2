@@ -302,9 +302,9 @@ nav.show .icon-close {
   z-index: 0;
 }
 
-#home .image img {
+#home .image iframe {
   position: relative;
-  right: 2.93rem;
+  right: 1rem;
   border-radius: 0.3rem;
 }
 
