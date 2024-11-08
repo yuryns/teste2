@@ -607,6 +607,8 @@ footer .social a:hover {
     order: 0;
     max-width: 24rem;
     text-align: left;
+    height: 100%;
+    width: 100%;
   }
 
   /* about */
