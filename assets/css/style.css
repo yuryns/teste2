@@ -291,6 +291,12 @@ nav.show .icon-close {
   position: relative;
 }
 
+#home .image iframe {
+  position: relative;
+  right: 1rem;
+  border-radius: 0.3rem;
+}
+
 #home .image::before {
   content: '';
   height: 90%;
