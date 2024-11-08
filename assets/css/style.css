@@ -601,8 +601,8 @@ footer .social a:hover {
     order: 1;
   }
   #home .image iframe {
-    height: 100%;
-    width: 100%;
+    height: 50%;
+    width: 50%;
     position: absolute;
   }
 
