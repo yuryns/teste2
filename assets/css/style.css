@@ -591,7 +591,7 @@ footer .social a:hover {
   /* home */
   #home .container {
     grid-auto-flow: column;
-    justify-content: space-between;
+    
     margin: 0 auto;
   }
 
