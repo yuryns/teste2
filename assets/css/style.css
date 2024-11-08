@@ -302,12 +302,7 @@ nav.show .icon-close {
   z-index: 0;
 }
 
-#home .image iframe {
-  position: relative;
-  right: 1rem;
-  border-radius: 0.3rem;
 
-}
 
 #home .image img,
 #home .image::before {
