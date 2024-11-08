@@ -600,11 +600,7 @@ footer .social a:hover {
   #home .image {
     order: 1;
   }
-  #home .image iframe {
-    height: 50%;
-    width: 50%;
-    position: absolute;
-  }
+
 
   #home .text {
     order: 0;
