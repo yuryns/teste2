@@ -603,6 +603,7 @@ footer .social a:hover {
   #home .image iframe {
     height: 100%;
     width: 100%;
+    position: absolute;
   }
 
   #home .text {
