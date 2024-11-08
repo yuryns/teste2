@@ -598,6 +598,10 @@ footer .social a:hover {
   #home .image {
     order: 1;
   }
+  #home .image iframe {
+    height: 100%;
+    width: 100%;
+  }
 
   #home .text {
     order: 0;
